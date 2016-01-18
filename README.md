@@ -8,6 +8,8 @@ Download the latest version [here](https://github.com/Gremsy/gStabi-H3-Firmware/
 ## Prepare:
 - Download [gStabiAssistant Software](https://github.com/Gremsy/gStabi-Software/releases)
 - [Download USB Driver](https://www.silabs.com/products/mcu/Pages/USBtoUARTBridgeVCPDrivers.aspx)
+- Disconnect/Unplug Remote Receiver, e.g: SBUS, PPM, Spektrum,... receiver
+
 - Connect gStabi system to your Laptop, PC or Mac
 - Switch on the system, DON'T Turn Motors on
 
@@ -27,5 +29,7 @@ Download the latest version [here](https://github.com/Gremsy/gStabi-H3-Firmware/
 # Support:
 Email: support@gremsy.com
 Website: www.gremsy.com
+[Forum](gremsy.freshdesk.com)
+
 
 
