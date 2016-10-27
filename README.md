@@ -31,7 +31,8 @@ Email: support@gremsy.com
 
 Website: www.gremsy.com
 
-Forum: https://gremsy.freshdesk.com
+
+
 
 
 
